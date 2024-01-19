@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hkc619
-- 👀 I’m interested in front end.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in Web dev.
+- 🌱 I’m currently learning JavaScript and Java.
 - <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
