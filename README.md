@@ -1,6 +1,5 @@
-<h1>test</h1>
 - 👋 Hi, I’m @hkc619
-- 👀 I’m interested in Web dev.
+- 👀 I’m interested in Web dev and web3.0.
 - 🌱 I’m currently learning JavaScript and Java.
 - <!--
 - 💞️ I’m looking to collaborate on ...
