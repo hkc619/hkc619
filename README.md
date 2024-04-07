@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hkc619
-- 👀 I’m interested in Web dev and web3.0.
+- 👀 I’m interested in Web Dev and Data Science.
 - 🌱 I’m currently learning JavaScript and Java.
 - <!--
 - 💞️ I’m looking to collaborate on ...
