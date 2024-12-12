@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hkc619 or Kyle.  
 - 👀 I’m interested in Web Dev.  
-- 🌱 I’m currently learning JavaScript and Java.  
+- 👨‍💻 I'm working on Node.js.  
+- 🌱 I’m currently learning Golang.  
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
@@ -15,4 +16,5 @@ You can click the Preview link to take a look at your changes.
 **Tools I have used**  
 -  
 **Language and Framework I have used**  
--  
+- JavaScript, Node.js  
+- Python  
