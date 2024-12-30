@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkc619&layout=compact&theme=vue)
 
 **Language I have written**  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,r)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,r&theme=light)](https://skillicons.dev)  
 **Tools I have used**  
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,git&theme=light)](https://skillicons.dev)  
 **Tools I have used**  
-[![My Skills](https://skillicons.dev/icons?i=node)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  
