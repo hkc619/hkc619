@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,r&theme=light)](https://skillicons.dev)  
 **Tools I have used**  
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,git&theme=light)](https://skillicons.dev)  
-**Tools I have used**  
+**Frameworks I have used**  
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  
