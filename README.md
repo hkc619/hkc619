@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 **Language I have written**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,r&theme=light)](https://skillicons.dev)  
 **Tools I have used**  
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,git&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,azure,docker,git&theme=light)](https://skillicons.dev)  
 **Frameworks I have used**  
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  
