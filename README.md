@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hkc619 or Kyle.  
-- 👀 I’m interested in Web Dev.  
+- 👀 I’m interested in Software Dev.  
 - 👨‍💻 I'm working on Node.js.  
-- 🌱 I’m currently learning Golang.  
+- 🌱 I’m currently learning Golang and Java.
+- 💻 I'm pursuing the goal of being an experienced Go, Java, and Javascript developer.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
