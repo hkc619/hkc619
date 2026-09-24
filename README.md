@@ -1,9 +1,9 @@
 ![My visitors](https://komarev.com/ghpvc/?username=hkc619)
 - 👋 Hi, I’m @hkc619 or Kyle C..  
-- 👀 I’m interested in Software Dev.  
-- 👨‍💻 I'm working on Node.js and Python.  
-- 🌱 I’m currently learning TypeScript and FastAPI.
-- 💻 I'm pursuing the goal of being an experienced full-stack developer.
+- 👀 I’m interested in Full-stack and systems.  
+- 👨‍💻 I'm working on Python and C++.  
+- 🌱 I’m currently learning AI infra.
+- 💻 I'm pursuing the goal of becoming an experienced software engineer.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
